@@ -1,0 +1,107 @@
+This is TeX, Version 3.1415926 (TeX Live 2013/Debian) (format=tex 2015.11.27)  16 JUN 2016 16:01
+**starlog-0001
+(./starlog-0001.tex (./starlog.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(364.19527+1.94444)x241.84842, glue set 339.19527
+.\special{papersize=105mm,148mm}
+.\glue(\topskip) 3.05556
+.\hbox(6.94444+1.94444)x241.84842, glue set 98.88614fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\tenbf S
+..\tenbf t
+..\tenbf a
+..\tenbf r
+..etc.
+.\glue 3.0 plus 1.0 minus 1.0
+.\glue(\baselineskip) 3.11111
+.etc.
+
+ [1]
+[2]
+Overfull \hbox (0.34642pt too wide) in paragraph at lines 53--61
+\tenrm sub-sys-tem fol-low-ing the work of Takver to in-ter-face NAV|
+
+\hbox(6.94444+1.94444)x241.84842, glue set - 1.0
+.\tenrm s
+.\tenrm u
+.\tenrm b
+.\discretionary
+..\tenrm -
+.\tenrm s
+.etc.
+
+[3]
+Overfull \hbox (0.44832pt too wide) in paragraph at lines 79--83
+\tenrm cused on space-time com-put-ing. The sim-u-la-tion of quan-|
+
+\hbox(6.94444+1.94444)x241.84842, glue set - 1.0
+.\tenrm c
+.\tenrm u
+.\tenrm s
+.\tenrm e
+.\tenrm d
+.etc.
+
+
+Overfull \hbox (11.33716pt too wide) in paragraph at lines 96--105
+[]\tenrm The mole-fab prod-ucts were nat-u-ral com-put-ers. Molec-|
+
+\hbox(6.94444+1.94444)x241.84842, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm T
+.\tenrm h
+.\tenrm e
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+[4] [5] [6]
+Overfull \hbox (8.12424pt too wide) in paragraph at lines 164--171
+[]\tenrm Shevek didn't share Takver's ado-ra-tion of space flight.|
+
+\hbox(6.94444+1.94444)x241.84842, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm S
+.\tenrm h
+.\tenrm e
+.\tenrm v
+.etc.
+
+[7] [8] [9] [10] [11]
+Overfull \hbox (7.11502pt too wide) in paragraph at lines 319--324
+\tenrm fab-ri-ca-tion fa-cil-i-ties. The whole or part could be grounded|
+
+\hbox(6.94444+1.94444)x241.84842, glue set - 1.0
+.\tenrm f
+.\tenrm a
+.\tenrm b
+.\discretionary
+..\tenrm -
+.\tenrm r
+.etc.
+
+[12] [13] [14] [15]
+Overfull \hbox (0.39284pt too wide) in paragraph at lines 456--463
+\tenrm ploy pe-ri-odic brain-wave in-for-ma-tion. Shevek and Takver|
+
+\hbox(6.94444+1.94444)x241.84842, glue set - 1.0
+.\tenrm p
+.\tenrm l
+.\tenrm o
+.\kern-0.27779
+.\tenrm y
+.etc.
+
+[16] [17]
+Overfull \hbox (5.6798pt too wide) in paragraph at lines 502--509
+\tenrm sent aa pic-o-cam au-tonomous spher-i-cal space cam-era droid|
+
+\hbox(6.94444+1.94444)x241.84842, glue set - 1.0
+.\tenrm s
+.\tenrm e
+.\tenrm n
+.\kern-0.27779
+.\tenrm t
+.etc.
+
+[18] [19] [20] [21] [22] )
+Output written on starlog-0001.dvi (22 pages, 47116 bytes).
