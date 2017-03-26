@@ -1,0 +1,1 @@
+﻿The new differential analyzer was far more sensitive than the previous version.  It would enable the tool chain to offload more manual work -- another leap in productivity.   Analyzers in higher energy levels were long completed.  This would be the first one seen at this energy level.

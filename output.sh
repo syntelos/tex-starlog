@@ -37,7 +37,7 @@ EOF
 }
 function cache_test {
 
-    [ ! -f ${tgt2} ]||[ $src -nt ${tgt2} ]||[ startlog.tex -nt ${tgt2} ]
+    [ ! -f ${tgt2} ]||[ $src -nt ${tgt2} ]||[ starlog.tex -nt ${tgt2} ]
 }
 function overwrite {
 
